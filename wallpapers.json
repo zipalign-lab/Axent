@@ -1,0 +1,25 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Krish Gounder",
+			"url": "http://i.imgur.com/JjrvhWV.jpg",
+			"name": "Close Up"
+		},
+		{
+			"author": "Krish Gounder",
+			"url": "http://i.imgur.com/Aiav9Ar.jpg",
+			"name": "Close Up Two"
+		},
+		{
+			"author": "Krish Gounder",
+			"url": "http://i.imgur.com/cd6k4op.jpg",
+			"name": "Foliage Sunset"
+		}
+				{
+			"author": "Krish Gounder",
+			"url": "http://i.imgur.com/Bvf3gEi.jpg",
+			"name": "Foliage"
+		}
+	]
+}
