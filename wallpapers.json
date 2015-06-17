@@ -1,20 +1,11 @@
 { 
 "wallpapers": 
 	[
+	
 		{
-			"author": "Krish Gounder",
-			"url": "http://i.imgur.com/w7fl7NJ.jpg",
-			"name": "Imagine"
-		},
-		{
-			"author": "Krish Gounder",
-			"url": "http://i.imgur.com/Jp9XsVz.jpg",
-			"name": "Imagine Dark"
-		},
-		{
-			"author": "Krish Gounder",
-			"url": "http://i.imgur.com/tyEsU0v.jpg",
-			"name": "Iron Man Flat"
+			"author": "Community",
+			"url": "http://i.imgur.com/WTaJY9u.png",
+			"name": "Midnight Sky"
 		},
 		{
 			"author": "Krish Gounder",
@@ -23,38 +14,8 @@
 		},
 		{
 			"author": "Tapet",
-			"url": "http://i.imgur.com/CM0mYQO.png",
-			"name": "Angled Shapes"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/t2YBSfz.png",
-			"name": "Purple"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/aKDFruW.png",
-			"name": "Purple Two"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/SslLvMy.png",
-			"name": "Teal Colours"
-		},
-		{
-			"author": "Tapet",
 			"url": "http://i.imgur.com/swBURlL.png",
 			"name": "Blue Spiral"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/ce7xb7y.png",
-			"name": "Vibrant"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/7H846AZ.png",
-			"name": "Washed Flat"
 		},
 		{
 			"author": "Tapet",
@@ -63,28 +24,8 @@
 		},
 		{
 			"author": "Tapet",
-			"url": "http://i.imgur.com/LVBgygP.png",
-			"name": "Cream Tint"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/krOassQ.png",
-			"name": "Block Lines"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/VfD62ny.png",
-			"name": "Clean"
-		},
-		{
-			"author": "Tapet",
 			"url": "http://i.imgur.com/ETbGylm.png",
 			"name": "Light"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/fUlHcR0.png",
-			"name": "Coloured Stripes"
 		},
 		{
 			"author": "Tapet",
@@ -95,23 +36,6 @@
 			"author": "Tapet",
 			"url": "http://i.imgur.com/Zyu7Egn.png",
 			"name": "Pattern"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/txIEJW4.png",
-			"name": "Groovy"
-		},
-		{
-		
-			"author": "Tapet",
-			"url": "http://i.imgur.com/Z8M04Cb.png",
-			"name": "Mirror"
-		},
-		{
-		
-			"author": "Tapet",
-			"url": "http://i.imgur.com/Sspm7es.png",
-			"name": "Polygon"
 		}
 	]
 }
