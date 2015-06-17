@@ -1,41 +1,20 @@
 { 
 "wallpapers": 
 	[
-	
+		{
+			"author": "Community",
+			"url": "http://i.imgur.com/hnCE4WZ.jpg",
+			"name": "Galaxy One"
+		},
+		{
+			"author": "Community",
+			"url": "http://i.imgur.com/QRXtKE5.jpg",
+			"name": "Galaxy Two"
+		},
 		{
 			"author": "Community",
 			"url": "http://i.imgur.com/WTaJY9u.png",
 			"name": "Midnight Sky"
-		},
-		{
-			"author": "Krish Gounder",
-			"url": "http://i.imgur.com/szPBeih.jpg",
-			"name": "Isometric Building"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/swBURlL.png",
-			"name": "Blue Spiral"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/V548TtF.png",
-			"name": "Tinted"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/ETbGylm.png",
-			"name": "Light"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/gVhfvm7.png",
-			"name": "Blue Tint"
-		},
-		{
-			"author": "Tapet",
-			"url": "http://i.imgur.com/Zyu7Egn.png",
-			"name": "Pattern"
 		}
 	]
 }
