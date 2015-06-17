@@ -2,19 +2,24 @@
 "wallpapers": 
 	[
 		{
-			"author": "Someone",
-			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-			"name": "ShotA"
+			"author": "Krish Gounder",
+			"url": "http://i.imgur.com/JjrvhWV.jpg",
+			"name": "Close Up"
 		},
 		{
-			"author": "Someone",
-			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-			"name": "ShotB"
+			"author": "Krish Gounder",
+			"url": "http://i.imgur.com/Aiav9Ar.jpg",
+			"name": "Close Up Two"
 		},
 		{
-			"author": "Someone",
-			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-			"name": "ShotC"
+			"author": "Krish Gounder",
+			"url": "http://i.imgur.com/cd6k4op.jpg",
+			"name": "Foliage Sunset"
+		},
+		{
+			"author": "Krish Gounder",
+			"url": "http://i.imgur.com/Bvf3gEi.jpg",
+			"name": "Foliage"
 		}
 	]
-}
+} 
