@@ -2,18 +2,19 @@
 "wallpapers": 
 	[
 		{
-			"author": "Community",
-			"url": "http://i.imgur.com/WTaJY9u.png",
-			"name": "Galaxy One"
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+			"name": "ShotA"
 		},
 		{
-			"author": "Community",
-			"url": "http://i.imgur.com/QRXtKE5.jpg",
-			"name": "Galaxy Two"
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+			"name": "ShotB"
 		},
-		{Community",
-			"url": "http://i.imgur.com/hnCE4WZ.jpg",
-			"name": "Midnight Sky"
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+			"name": "ShotC"
 		}
 	]
 }
