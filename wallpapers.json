@@ -2,9 +2,16 @@
 	"wallpapers":
 	[
 		{
-			"name": "Ventana",
+			"name": "Wavey",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/fd5d9Xw.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "Slan style",
 			"author": "Aaron Schmidt",
-			"url": "http://i.imgur.com/ib2QLnp.jpg",
+			"url": "http://i.imgur.com/GI2c4jx.jpg",
 			"dimensions": "2160 × 1920",
 			"copyright": "Aaron Schmidt. All rights reserved."
 		},
