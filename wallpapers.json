@@ -1,145 +1,68 @@
-{ 
-"wallpapers": 
+{
+	"wallpapers":
 	[
 		{
-			"author": "KNXT",
-			"url": "https://i.imgur.com/e7E3c5N.png",
-			"name": "Frostbite Lagoon"
+			"name": "Ventana",
+			"author": "Aaron Schmidt",
+			"url": "https://www.dropbox.com/s/8w89k9vuimfiquu/ventana.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "Aaron Schmidt. All rights reserved."
 		},
 		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/h1hSNLq.png",
-			"name": "Winter Wonderland"
+			"name": "Slan style",
+			"author": "Aaron Schmidt",
+			"url": "https://www.dropbox.com/s/18u267b3fy3gn0q/slantstyle.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "Aaron Schmidt. All rights reserved."
 		},
 		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/hxoJeyI.png",
-			"name": "Starboy"
+			"name": "Seaside quarry",
+			"author": "Aaron Schmidt",
+			"url": "https://www.dropbox.com/s/mxs3s7df37oq54x/seasidequarry.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "Aaron Schmidt. All rights reserved."
 		},
 		{
-			"author": "Samer Zayer",
-			"url": "http://i.imgur.com/RJg0tSB.png",
-			"name": "Feeling Frosty"
+			"name": "The deep blue",
+			"author": "Aaron Schmidt",
+			"url": "https://www.dropbox.com/s/9teiesebacgeok1/thedeepblue.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "Aaron Schmidt. All rights reserved."
 		},
 		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/6k9IbdU.png",
-			"name": "Office Hours"
+			"name": "Fabrik",
+			"author": "Aaron Schmidt",
+			"url": "https://www.dropbox.com/s/89kpmcut7o3emwm/fabrik.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "Aaron Schmidt. All rights reserved."
 		},
 		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/zozsb9r.png",
-			"name": "Wind Milhouette"
+			"name": "Glass bearings",
+			"author": "Aaron Schmidt",
+			"url": "https://www.dropbox.com/s/6ro00w4jmusy6v1/glassbearings.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "Aaron Schmidt. All rights reserved."
 		},
 		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/5zd1A3x.png",
-			"name": "The System"
+			"name": "Material eye",
+			"author": "Aaron Schmidt",
+			"url": "hhttps://www.dropbox.com/s/vdpngk5dhrv8f2c/materialeye.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "Aaron Schmidt. All rights reserved."
 		},
 		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/MC6lx1z.png",
-			"name": "Valley Views"
+			"name": "Shelf home",
+			"author": "Aaron Schmidt",
+			"url": "https://www.dropbox.com/s/l9ly9hxu2mhqp5x/shelfhome.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "Aaron Schmidt. All rights reserved."
 		},
 		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/jLjB4tJ.png",
-			"name": "Valley Peak"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/waFrPXA.png",
-			"name": "Blizz Valley"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/6XUw2jA.png",
-			"name": "Sunshine Valley"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/U2guMd4.png",
-			"name": "Fantasy Valley"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/yIolEfi.png",
-			"name": "Apex Mountain"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/xPHDBnc.png",
-			"name": "Max Mountain"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/w7m7Jd6.png",
-			"name": "Dead Shed"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/xlX84yF.png",
-			"name": "Red Shed"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/6efPaOj.png",
-			"name": "Hover Hail"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/u03zzrx.png",
-			"name": "Hover Scape"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/Tw7wkT7.png",
-			"name": "Dark Air"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/abnzsoY.png",
-			"name": "Hot Air"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/jOtz12E.png",
-			"name": "Caffeine Friend"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/3kLI6XJ.png",
-			"name": "Save Water"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/SmOLT7w.png",
-			"name": "The Redlands"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/uKvXK5H.png",
-			"name": "The Flatlands"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/WJu8J7e.png",
-			"name": "Rolling Knolls"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/6oYp9oY.png",
-			"name": "Witching Waves"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/rzOXsVu.png",
-			"name": "'Tis The Season"
-		},
-		{
-			"author": "KNXT",
-			"url": "http://i.imgur.com/eW9TLsG.png",
-			"name": "The Watchtower"
+			"name": "Color pass",
+			"author": "Aaron Schmidt",
+			"url": "https://www.dropbox.com/s/5438suqt6lpmjak/colorpass.jpg?dl=0",
+			"dimensions": "2160 × 1920",
+			"copyright": "Aaron Schmidt. All rights reserved."
 		}
 	]
-} 
+}
