@@ -2,6 +2,13 @@
 	"wallpapers":
 	[
 		{
+			"name": "sense",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/XZrKhM4.jpg",
+			"dimensions": "2560× 19200",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
 			"name": "paint blue",
 			"author": "zipalign cypher",
 			"url": "http://i.imgur.com/1b6EJdt.png",
