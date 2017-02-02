@@ -185,6 +185,249 @@
 		},
 		{
 			"name": "Ventana",
+{
+	"wallpapers":
+	[
+		{
+			"name": "lonely_planet-red",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/krO71MM.jpg",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "lonely_planet-blue",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/8nI03AV.jpg",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "lonely_planet-green",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/4rH8LZr.jpg",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "lonely_planet-orange",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/k2gNNrw.jpg",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "lonely_planet-yellow",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/CmjHGqB.jpg",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "lonely_planet-purple",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/X7B6HKm.jpg",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "lonely_planet-gray",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/fvXTKi1.jpg",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "lonely_planet-black",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/hA9kmQN.jpg",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "paint blue",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/1b6EJdt.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "paint red",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/Cf3nT7a.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "paint green",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/SbOZtU7.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "paint orange",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/nNzR2DM.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "paint purple",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/IkJMJPk.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "paint yellow",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/uezMLCQ.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "sense",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/XZrKhM4.jpg",
+			"dimensions": "2560× 1920",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "akeruE",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/Hy7RJhG.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "Cyanogenmod Wallpaper - Dark",
+			"author": "Cyanogenmod",
+			"url": "http://i.imgur.com/uQT8nSB.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "Cyanogenmod. All rights reserved."
+		},
+		{
+			"name": "Cyanogenmod Wallpaper - Stock",
+			"author": "Cyanogenmod",
+			"url": "http://i.imgur.com/5DUtkKj.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "Cyanogenmod. All rights reserved."
+		},
+		{
+			"name": "Spirals",
+			"author": "Perfect Hue",
+			"url": "http://i.imgur.com/phCF63l.jpg",
+			"dimensions": "2662 × 2662",
+			"copyright": "Perfect Hue. All rights reserved."
+		},
+		{
+			"name": "Radar",
+			"author": "Perfect Hue",
+			"url": "http://i.imgur.com/9htMCHS.jpg",
+			"dimensions": "2662 × 2662",
+			"copyright": "Perfect Hue. All rights reserved."
+		},
+		{
+			"name": "Platform",
+			"author": "Perfect Hue",
+			"url": "http://i.imgur.com/7efa00M.jpg",
+			"dimensions": "2662 × 2662",
+			"copyright": "Perfect Hue. All rights reserved."
+		},
+		{
+			"name": "Coil",
+			"author": "Perfect Hue",
+			"url": "http://i.imgur.com/UsOajTe.jpg",
+			"dimensions": "2662 × 2662",
+			"copyright": "Perfect Hue. All rights reserved."
+		},
+		{
+			"name": "Geometrix",
+			"author": "Michael Dolejs",
+			"url": "http://i.imgur.com/Lek2oPf.png",
+			"dimensions": "2662 × 2662",
+			"copyright": "Michael Dolejs. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 07",
+			"author": "小米",
+			"url": "http://i.imgur.com/A1E4n0k.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "小米. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 20",
+			"author": "HTC",
+			"url": "http://i.imgur.com/zhLL3vi.jpg",
+			"dimensions": "2880 × 2560",
+			"copyright": "HTC. All rights reserved."
+		},
+		{
+			"name": "Firewatch day",
+			"author": "Aaron Olive",
+			"url": "http://i.imgur.com/cKr3x5f.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "Aaron Olive. All rights reserved."
+		},
+		{
+			"name": "Firewatch night",
+			"author": "Aaron Olive",
+			"url": "http://i.imgur.com/kNflPTk.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "Aaron Olive. All rights reserved."
+		},
+		{
+			"name": "Firewatch 01",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/LWm0o7a.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "No one."
+		},
+		{
+			"name": "Firewatch 02",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/ljwivhY.jpg",
+			"dimensions": "3200 × 2560",
+			"copyright": "No one."
+		},
+		{
+			"name": "Firewatch 03",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/46bg0VW.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "No one."
+		},
+		{
+			"name": "Winter",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/Wa8rQ7v.jpg",
+			"dimensions": "3200 × 2560",
+			"copyright": "No one."
+		},
+		{
+			"name": "November Forest",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/gO73xiJ.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "No one."
+		},
+		{
+			"name": "October Forest",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/1K8sPUb.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "No one."
+		},
+		{
+			"name": "Wavey",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/fd5d9Xw.jpg",
+			"dimensions": "2160 × 1920",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		{
+			"name": "Ventana",
 			"author": "Aaron Schmidt",
 			"url": "http://i.imgur.com/ib2QLnp.jpg",
 			"dimensions": "2160 × 1920",
