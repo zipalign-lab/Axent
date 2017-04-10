@@ -2,16 +2,107 @@
 	"wallpapers":
 	[
 		{
-			"name": "Akerue",
+			"name": "Abyss",
 			"author": "zipalign cypher",
-			"url": "http://i.imgur.com/Y76TrUD.png",
+			"url": "http://i.imgur.com/aEGVG9U.png",
 			"dimensions": "3200 × 2560",
 			"copyright": "zipalign cypher. All rights reserved."
 		},
-		{
-			"name": "All gone now",
+		
+			"name": "Acronym",
 			"author": "zipalign cypher",
-			"url": "http://i.imgur.com/KJwSHUy.png",
+			"url": "http://i.imgur.com/6RbBHkz.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Antarctica",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/XQPpKfn.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Change",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/UUagl6w.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Desert",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/AaR8MhH.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Forest",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/4Ga0h9v.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Norway",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/iJLKCYC.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Ocean",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/zQwjZe2.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Red rocks",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/MK9v6A5.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Shore",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/zJwIM6l.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Stone",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/YKnk6t5.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Wall cracks",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/fbOzp5k.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Winter sea",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/8O8w759.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Woods",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/DLgDVc7.png",
+			"dimensions": "3200 × 2560",
+			"copyright": "zipalign cypher. All rights reserved."
+		},
+		
+			"name": "Akerue",
+			"author": "zipalign cypher",
+			"url": "http://i.imgur.com/Y76TrUD.png",
 			"dimensions": "3200 × 2560",
 			"copyright": "zipalign cypher. All rights reserved."
 		},
@@ -26,20 +117,6 @@
 			"name": "Breathe",
 			"author": "zipalign cypher",
 			"url": "http://i.imgur.com/YFCpbzB.png",
-			"dimensions": "3200 × 2560",
-			"copyright": "zipalign cypher. All rights reserved."
-		},
-		{
-			"name": "Coil",
-			"author": "zipalign cypher",
-			"url": "http://i.imgur.com/9EUzKaC.png",
-			"dimensions": "3200 × 2560",
-			"copyright": "zipalign cypher. All rights reserved."
-		},
-		{
-			"name": "Colorpass",
-			"author": "zipalign cypher",
-			"url": "http://i.imgur.com/QU2FJYj.png",
 			"dimensions": "3200 × 2560",
 			"copyright": "zipalign cypher. All rights reserved."
 		},
@@ -72,23 +149,9 @@
 			"copyright": "zipalign cypher. All rights reserved."
 		},
 		{
-			"name": "False start",
-			"author": "zipalign cypher",
-			"url": "http://i.imgur.com/4tigQq4.png",
-			"dimensions": "3200 × 2560",
-			"copyright": "zipalign cypher. All rights reserved."
-		},
-		{
 			"name": "Frameshift",
 			"author": "zipalign cypher",
 			"url": "http://i.imgur.com/iITWRYn.png",
-			"dimensions": "3200 × 2560",
-			"copyright": "zipalign cypher. All rights reserved."
-		},
-		{
-			"name": "Glassbearings",
-			"author": "zipalign cypher",
-			"url": "http://i.imgur.com/HtRqrSz.png",
 			"dimensions": "3200 × 2560",
 			"copyright": "zipalign cypher. All rights reserved."
 		},
@@ -103,13 +166,6 @@
 			"name": "Heal",
 			"author": "zipalign cypher",
 			"url": "http://i.imgur.com/Ud4d1pV.png",
-			"dimensions": "3200 × 2560",
-			"copyright": "zipalign cypher. All rights reserved."
-		},
-		{
-			"name": "Material eye",
-			"author": "zipalign cypher",
-			"url": "http://i.imgur.com/rQOyG5h.png",
 			"dimensions": "3200 × 2560",
 			"copyright": "zipalign cypher. All rights reserved."
 		},
@@ -156,23 +212,9 @@
 			"copyright": "zipalign cypher. All rights reserved."
 		},
 		{
-			"name": "Radar",
-			"author": "zipalign cypher",
-			"url": "http://i.imgur.com/iJt6Q25.png",
-			"dimensions": "3200 × 2560",
-			"copyright": "zipalign cypher. All rights reserved."
-		},
-		{
 			"name": "Reinventana",
 			"author": "zipalign cypher",
 			"url": "http://i.imgur.com/L71ghkH.png",
-			"dimensions": "3200 × 2560",
-			"copyright": "zipalign cypher. All rights reserved."
-		},
-		{
-			"name": "Reverie",
-			"author": "zipalign cypher",
-			"url": "http://i.imgur.com/unTEIHO.png",
 			"dimensions": "3200 × 2560",
 			"copyright": "zipalign cypher. All rights reserved."
 		},
@@ -233,13 +275,6 @@
 			"copyright": "zipalign cypher. All rights reserved."
 		},
 		{
-			"name": "The new math",
-			"author": "zipalign cypher",
-			"url": "http://i.imgur.com/WEGULZu.png",
-			"dimensions": "3200 × 2560",
-			"copyright": "zipalign cypher. All rights reserved."
-		},
-		{
 			"name": "Truth unravels",
 			"author": "zipalign cypher",
 			"url": "http://i.imgur.com/9tTgJ1Y.png",
@@ -250,13 +285,6 @@
 			"name": "Ventana",
 			"author": "zipalign cypher",
 			"url": "http://i.imgur.com/UXsnra5.png",
-			"dimensions": "3200 × 2560",
-			"copyright": "zipalign cypher. All rights reserved."
-		},
-		{
-			"name": "We come undone",
-			"author": "zipalign cypher",
-			"url": "http://i.imgur.com/uwoT8M4.png",
 			"dimensions": "3200 × 2560",
 			"copyright": "zipalign cypher. All rights reserved."
 		},
