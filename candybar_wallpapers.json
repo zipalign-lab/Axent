@@ -2,7 +2,22 @@
     "Categories": 
         [
             {
-                "name": "Axent"
+                "name": "KitKat"
+            },
+            {
+                "name": "Lollipop"
+            },
+            {
+                "name": "Marshmallow"
+            },
+            {
+                "name": "Nougat"
+            },
+            {
+                "name": "NoImagesInside"
+            },
+            {
+                "name": "AnotherCategory"
             }
         ],
     
@@ -11,9 +26,9 @@
 			{
 				"author": "Hampus Holsson",
 				"url": "http://orig04.deviantart.net/e414/f/2016/169/6/8/above_the_rainbow_mountain_4k_by_abstructapp-da6ooi3.jpg",
-				"thumbUrl": "http://i.imgur.com/ijxNU7f.png",
-				"name": "above the rainbow mountain",
-                "category": "Axent"
+				"thumbUrl": "https://drive.google.com/file/d/0BxL5MzWVhjzscHVIaWJuYUtQWUU/",
+				"name": "Above the rainbow mountain",
+                "category": "nougat,anothercategory"
 			},
 			{
 				"author": "Taken from gadgetraid",
